@@ -27,11 +27,12 @@ addon | version | maintainers | summary
 [product_category_code](product_category_code/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
 [product_category_code_unique](product_category_code_unique/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to set product category code field as unique
 [product_category_product_link](product_category_product_link/) | 15.0.1.0.0 |  | Allows to get products from a category
-[product_code_mandatory](product_code_mandatory/) | 15.0.1.0.0 |  | Set Product Internal Reference as a required field
+[product_code_mandatory](product_code_mandatory/) | 15.0.1.0.1 |  | Set Product Internal Reference as a required field
 [product_code_unique](product_code_unique/) | 15.0.1.0.0 |  | Set Product Internal Reference as Unique
 [product_cost_security](product_cost_security/) | 15.0.2.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Product cost security restriction view
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 15.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
+[product_lot_sequence](product_lot_sequence/) | 15.0.1.0.0 |  | Adds ability to define a lot sequence from the product
 [product_manufacturer](product_manufacturer/) | 15.0.1.0.2 |  | Adds manufacturers and attributes on the product view.
 [product_multi_image](product_multi_image/) | 15.0.1.0.0 |  | Multiple Images in Products
 [product_net_weight](product_net_weight/) | 15.0.1.0.2 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
