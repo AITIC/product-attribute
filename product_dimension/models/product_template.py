@@ -15,16 +15,16 @@ class ProductTemplate(models.Model):
         "Dimensional UoM",
         related="product_variant_ids.dimensional_uom_id",
         help="UoM for length, height, width",
-        readonly=False,
+        readonly=False ,copy=True
     )
     product_length = fields.Float(
-        related="product_variant_ids.product_length", readonly=False
+        related="product_variant_ids.product_length", readonly=False,copy=True
     )
     product_height = fields.Float(
-        related="product_variant_ids.product_height", readonly=False
+        related="product_variant_ids.product_height", readonly=False,copy=True
     )
     product_width = fields.Float(
-        related="product_variant_ids.product_width", readonly=False
+        related="product_variant_ids.product_width", readonly=False,copy=True
     )
 
     @api.model
