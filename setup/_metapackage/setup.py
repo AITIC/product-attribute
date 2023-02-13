@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-product_abc_classification>=15.0dev,<15.1dev',
+        'odoo-addon-product_abc_classification_sale>=15.0dev,<15.1dev',
         'odoo-addon-product_assortment>=15.0dev,<15.1dev',
         'odoo-addon-product_attribute_value_menu>=15.0dev,<15.1dev',
         'odoo-addon-product_category_active>=15.0dev,<15.1dev',
@@ -32,6 +33,7 @@ setuptools.setup(
         'odoo-addon-product_pricelist_direct_print_company_group>=15.0dev,<15.1dev',
         'odoo-addon-product_pricelist_direct_print_website_sale>=15.0dev,<15.1dev',
         'odoo-addon-product_pricelist_revision>=15.0dev,<15.1dev',
+        'odoo-addon-product_pricelist_simulation>=15.0dev,<15.1dev',
         'odoo-addon-product_pricelist_supplierinfo>=15.0dev,<15.1dev',
         'odoo-addon-product_restricted_type>=15.0dev,<15.1dev',
         'odoo-addon-product_secondary_unit>=15.0dev,<15.1dev',
