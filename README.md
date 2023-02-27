@@ -24,6 +24,7 @@ addon | version | maintainers | summary
 [product_abc_classification](product_abc_classification/) | 15.0.1.0.0 | [![MiquelRForgeFlow](https://github.com/MiquelRForgeFlow.png?size=30px)](https://github.com/MiquelRForgeFlow) | Includes ABC classification for inventory management
 [product_abc_classification_sale](product_abc_classification_sale/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Includes ABC classification for inventory management
 [product_assortment](product_assortment/) | 15.0.1.0.0 |  | Adds the ability to manage products assortment
+[product_attribute_archive](product_attribute_archive/) | 15.0.1.0.1 |  | Add an active field on product attributes
 [product_attribute_value_menu](product_attribute_value_menu/) | 15.0.1.1.0 |  | Product attributes values tree and form. Import attribute values.
 [product_category_active](product_category_active/) | 15.0.1.0.0 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
@@ -50,7 +51,7 @@ addon | version | maintainers | summary
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 15.0.1.0.0 |  | Allows to create priceslists based on supplier info
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
 [product_secondary_unit](product_secondary_unit/) | 15.0.1.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
-[product_sequence](product_sequence/) | 15.0.1.0.0 |  | Product Sequence
+[product_sequence](product_sequence/) | 15.0.2.1.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 15.0.1.0.1 |  | Allows to define prices for customers in the products
