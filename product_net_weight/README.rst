@@ -78,6 +78,10 @@ Contributors
 
   * Fernando La Chica <fernandolachica@gmail.com>
 
+* `Tecnativa <https://www.tecnativa.com>`_:
+
+  * Sergio Teruel
+
 Maintainers
 ~~~~~~~~~~~
 
