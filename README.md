@@ -37,10 +37,10 @@ addon | version | maintainers | summary
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_drained_weight](product_drained_weight/) | 15.0.1.0.0 |  | Add 'Drained Weight' on product models
 [product_logistics_uom](product_logistics_uom/) | 15.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
-[product_lot_sequence](product_lot_sequence/) | 15.0.1.1.1 |  | Adds ability to define a lot sequence from the product
+[product_lot_sequence](product_lot_sequence/) | 15.0.1.1.2 |  | Adds ability to define a lot sequence from the product
 [product_manufacturer](product_manufacturer/) | 15.0.1.0.2 |  | Adds manufacturers and attributes on the product view.
 [product_multi_image](product_multi_image/) | 15.0.1.0.0 |  | Multiple Images in Products
-[product_multi_price](product_multi_price/) | 15.0.1.0.0 |  | Product Multi Price
+[product_multi_price](product_multi_price/) | 15.0.1.0.1 |  | Product Multi Price
 [product_net_weight](product_net_weight/) | 15.0.2.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_order_noname](product_order_noname/) | 15.0.1.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
 [product_packaging_type](product_packaging_type/) | 15.0.1.0.0 |  | Product Packaging Type
@@ -52,7 +52,7 @@ addon | version | maintainers | summary
 [product_pricelist_simulation](product_pricelist_simulation/) | 15.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Simulate the product price for all pricelists
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 15.0.1.0.1 |  | Allows to create priceslists based on supplier info
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
-[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.2.1.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_sticker](product_sticker/) | 15.0.1.1.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Product Sticker
