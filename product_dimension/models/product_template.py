@@ -58,10 +58,4 @@ class ProductTemplate(models.Model):
             round=False,
         )
 
-    @api.model
-    def create(self, vals):       
-        ctx = dict(self._context)
-        ctx.update({'default_dimensional_uom_id':vals['dimensional_uom_id'], 'default_product_width':vals['product_width'],'default_product_length':vals['product_length'],'default_product_height':vals['product_height']})         
-        result = super(ProductTemplate, self.with_context(ctx)).create(vals)               
-        return result
 
