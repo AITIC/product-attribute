@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [product_code_mandatory](product_code_mandatory/) | 15.0.1.0.1 |  | Set Product Internal Reference as a required field
 [product_code_unique](product_code_unique/) | 15.0.1.0.1 |  | Set Product Internal Reference as Unique
 [product_cost_security](product_cost_security/) | 15.0.2.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Product cost security restriction view
+[product_custom_info](product_custom_info/) | 15.0.1.0.1 |  | Add custom field in products
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_drained_weight](product_drained_weight/) | 15.0.1.0.0 |  | Add 'Drained Weight' on product models
 [product_logistics_uom](product_logistics_uom/) | 15.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
@@ -53,9 +54,10 @@ addon | version | maintainers | summary
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 15.0.1.0.2 |  | Allows to create priceslists based on supplier info
 [product_profile](product_profile/) | 15.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
-[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.3 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.2.1.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
+[product_status](product_status/) | 15.0.1.0.0 |  | Product Status Computed From Fields
 [product_sticker](product_sticker/) | 15.0.1.1.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Product Sticker
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 15.0.1.0.2 |  | Allows to define prices for customers in the products
